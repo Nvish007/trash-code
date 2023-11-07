@@ -1,0 +1,150 @@
+{
+    "LOGIN": {
+        "BTN": "Login",
+        "password": "Paswoord",
+        "email": "E-mail",
+        "emailPlaceholder": "Geef een e-mailadres in",
+        "passwordPlaceholder": "Geef een paswoord in",
+        "forgot_password": "Paswoord vergeten?",
+        "continueLogin": "Ga verder naar het inlogproces.",
+        "submit_btn": "Verzenden",
+        "alreadyAccount": "Heeft u al een account?",
+        "privacy": "Privacy Policy",
+        "connected": "Verbonden met server",
+        "ERROR": {
+            "networkError": "Niet verbonden met server",
+            "updateBtn": "Nieuwe versie beschikbaar",
+            "updateMessage": "Er is een nieuwe versie beschikbaar. Gelieve uw applicatie te updaten.",
+            "agreement": "Licentieovereenkomst",
+            "agree": "Ik ga akkoord",
+            "no": "Nee",
+            "requried": "Verplicht",
+            "textAgree": "U dient akkoord te gaan met de licentieovereenkomst vooraleer u de applicatie kan gebruiken.",
+            "EmailEnter": "Gelieve een e-mail in te vullen",
+            "PasswordEnter": "Gelieve een paswoord in te vullen",
+            "EnterValidEmail": "Gelieve een geldig e-mailadres in te vullen.",
+            "SomethingWntWrong": "Er ging iets verkeerd. Probeer later opnieuw",
+            "ERRR": "Er is reeds een toestel aangemeld met deze account.",
+            "ER6": "Gelieve een e-mailadres in te geven om het paswoord opnieuw in te stellen.",
+            "ER7": "Als uw e-mailadres gekend is, dan zal u een e-mail krijgen om uw paswoord in te stellen."
+        }
+    },
+    "HOME": {
+        "BTN": "NEEM EEN FOTO",
+        "Welcome": "Welkom",
+        "searchProject": "Zoek een project",
+        "ERROR": {
+            "location": "Gelieve uw locatie in te schakelen",
+            "MenuTitle": "Kies een bron",
+            "CameraText": "Camera",
+            "GalleryText": "Fotoalbums",
+            "Cancel": "Annuleer",
+            "ImageArrayLength": "Gelieve een afbeelding te selecteren",
+            "LogoutTitle": "Uitloggen",
+            "LogoutMessage": "Bent u zeker dat u wenst uit te loggen?",
+            "LogoutYes": "Ja",
+            "LogoutNo": "Nee",
+            "takePictureRole": "destructive",
+            "LocationPermition": "Om deze applicatie te gebruiken moet uw locatie ingeschakeld zijn.",
+            "locationTitle": "Plaats",
+            "locationMessage": "Om deze applicatie te gebruiken moet uw locatie ingeschakeld zijn.",
+            "locationYes": "Activeren",
+            "locationNo": "Nee",
+            "SomethingWntWrong": "Er ging iets verkeerd. Probeer later opnieuw",
+            "cameraDenied": "Gelieve camera-toegang toe te staan.",
+            "confirmation": "Bevestiging",
+            "syncmsg": "Volledige synchronisatie kan enige tijd duren ?"
+        }
+    },
+    "OPHALINGEDETAILS": {
+        "BackBTN": "Terug",
+        "navBarTitle": "Werf 1",
+        "updateBTN": "Updaten",
+        "type": "Type",
+        "door": "Door",
+        "statusName": "Status",
+        "tagName": "Tag",
+        "Beschrijving": "Beschrijving",
+        "fileDownloadSuccess": "Bestand succesvol gedownload!",
+        "ERROR": {
+            "LoaderContent": "Bezig met laden",
+            "actionSheetTitle": "Selecteer een tijdstip",
+            "actionSheetCssClass": "custom_action_sheet",
+            "Terug": "Terug"
+        }
+    },
+    "OPHALINGE": {
+        "Ophalinge": "Ophalingen",
+        "ListBTN": "Lijst",
+        "BackBTN": "Back",
+        "ERROR": {
+            "Terug": "Terug",
+            "refresh": "Vernieuwen"
+        }
+    },
+    "LIST": {
+        "List": "List",
+        "BackBTN": "Terug",
+        "ListBTN": "Lijst",
+        "Name": "Name:  ",
+        "Description": "Beschrijving:  ",
+        "Location": "Locatie:  ",
+        "Status": "Status:  ",
+        "Tag": "Tag:  ",
+        "ERROR": {
+            "Terug": "Terug"
+        }
+    },
+    "ADDITEM": {
+        "BackBTN": "Terug",
+        "User": "Gebruiker : ",
+        "locationUpdate": "Sta locatie-update toe",
+        "NavBarTitle": "Nieuw item",
+        "newProject": "Foto genomen",
+        "existingProject": "Bestaand project",
+        "Verzenden": "Verzenden",
+        "SelectProject": "Project",
+        "Tag": "Tag",
+        "TitlePlaceholder" : "Titel",
+        "DescriptionPlaceholder" : "Beschrijving",
+        "selectTag":"Tag",
+        "SelectStatus": "Status",
+        "Terug": "Terug",
+        "selectItem":"Maak uw keuze",
+        "LOADING": {
+            "Image": "Images are uploading...",
+            "Document": "Documents are uploading..."
+        },
+        "ERROR": {
+            "BackTitle": "Bevestig",
+            "BackMessage": "Bent u zeker?",
+            "UpdateMessage": "Is dit item opgehaald?",
+            "BacktextNo": "Nee",
+            "BackRoleCancel": "Annuleer",
+            "BacktextYes": "Ja",
+            "SomethingWntWrong": "Er ging iets verkeerd. Probeer later opnieuw.",
+            "LocationPermition": "Om deze applicatie te gebruiken moet uw locatie ingeschakeld zijn.",
+            "AddProject": "Selecteer een project",
+            "EnterProjectName": "Selecteer een projectnaam",
+            "SelectTags": "Selecteer de tag",
+            "SelectSubTags": "Selecteer een subtag",
+            "Discription": "Geef een beschrijving in",
+            "status": "Selecteer een status",
+            "ImageArrayLength": "Voeg een afbeelding toe",
+            "ImageArrayLimit": "Je kan niet meer dan 20 afbeeldingen selecteren",
+            "ImageSuceess": "Afbeeldingen succesvol opgeladen",
+            "DocumentArrayLength": "Gelieve een document toe te voegen",
+            "DocumentArrayLimit": "",
+            "DocumentSuccess": "Document is succesvol opgeladen",
+            "SelectTypeTitle": "Selecteer bron",
+            "SlectTypeCameraText": "Camera",
+            "SlectTypeCameraRole": "destructive",
+            "SlectTypeGalleryText": "Galerij",
+            "SelectAnyTag": "Kies eerst een tag",
+            "ProjectCreatedSuccessfully": "Project succesvol aangemaakt"
+        }
+    },
+    "login": {
+        "When you use the mobile application you agree with the terms and conditions.\n\nTo use the mobile app, you have to turn on your GPS and turn off the rotation.": "Bij het gebruik van de mobiele applicatie gaat u akkoord met de algemene voorwaarden.\n\nZet op uw apparaat de locatie-instellingen aan en de rotatiefunctie uit."
+    }
+}

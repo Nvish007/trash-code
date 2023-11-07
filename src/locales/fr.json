@@ -1,0 +1,151 @@
+{
+    "LOGIN": {
+        "BTN": "Se connecter",
+        "password": "Mot de passe",
+        "email": "Adresse e-mail",
+        "emailPlaceholder": "Entrez votre e-mail",
+        "passwordPlaceholder": "Entrez votre mot de passe",
+        "forgot_password": "Mot de passe oublié ?",
+        "continueLogin": "Continuez avec login?",
+        "submit_btn": "Se connecter",
+        "alreadyAccount": "Vous avez déjà un compte ?",
+        "privacy": "Politique de confidentialité",
+        "connected": "Réseau connecté",
+        "ERROR": {
+            "networkError": "Réseau non disponible",
+            "updateBtn": "Nouvelle version disponible",
+            "updateMessage": "Une nouvelle version est disponible. Veuillez mettre votre application à jour.",
+            "agreement": "Conditions générales d'utilisation",
+            "agree": "J'accepte",
+            "no": "Je refuse",
+            "requried": "L'acceptation des conditions générales d'utilisation est requise",
+            "textAgree": "Vous devez accepter les conditions générales d'utilisation avant de pouvoir utiliser l'application.",
+            "EmailEnter": "Veuillez entrer votre e-mail",
+            "PasswordEnter": "Veuillez entrer votre mot de passe",
+            "EnterValidEmail": "Veuillez entrer une adresse e-mail valide",
+            "SomethingWntWrong": "Un problème est survenu. Veuillez réessayer plus tard",
+            "ERRR": "Un autre appareil est déjà connecté à ce compte.",
+            "ER6": "Veuillez entrer votre adresse e-mail pour recevoir le lien de réinitialisation de votre mot de passe !",
+            "ER7": "Si l'adresse e-mail existe, le lien de réinitialisation du mot de passe a été envoyé à cette e-mail."
+        }
+    },
+    "HOME": {
+        "BTN": "PRENDRE UNE PHOTO",
+        "Welcome": "Bienvenue",
+        "searchProject": "Cherchez un projet",
+        "ERROR": {
+            "location": "Veuillez indiquer votre lieu de résidence",
+            "MenuTitle": "Sélectionnez un média",
+            "CameraText": "Ouvrir la caméra",
+            "GalleryText": "Ouvrir la galerie de photos",
+            "Cancel": "Annuler",
+            "ImageArrayLength": "Veuillez ajouter une image",
+            "LogoutTitle": "Se déconnecter",
+            "LogoutMessage": "Êtes-vous sûr de vouloir vous déconnecter ?",
+            "LogoutYes": "Oui",
+            "LogoutNo": "Non",
+            "takePictureRole": "/",
+            "LocationPermition": "Cette application nécessite une autorisation de géolocalisation.",
+            "locationTitle": "Localisation",
+            "locationMessage": "Cette application nécessite une autorisation de géolocalisation.",
+            "locationYes": "Activer",
+            "locationNo": "Non",
+            "SomethingWntWrong": "Un problème est survenu. Veuillez réessayer plus tard",
+            "cameraDenied": "Veuillez autoriser l'accès à la caméra.",
+            "confirmation": "Confirmer",
+            "syncmsg": "La synchronisation complète peut prendre du temps."
+        }
+    },
+    "OPHALINGEDETAILS": {
+        "BackBTN": "Retour",
+        "navBarTitle": "/",
+        "updateBTN": "Actualiser",
+        "type": "Type",
+        "door": "Porte",
+        "statusName": "Statut",
+        "tagName": "Libellé",
+        "Beschrijving": "Description",
+        "fileDownloadSuccess": "Fichier téléchargé avec succès !",
+        "ERROR": {
+            "LoaderContent": "Chargement des données...",
+            "actionSheetTitle": "Sélectionnez la date et l'heure",
+            "actionSheetCssClass": "custom_action_sheet",
+            "Terug": "Retour"
+        }
+    },
+    "OPHALINGE": {
+        "Ophalinge": "/",
+        "ListBTN": "Liste",
+        "BackBTN": "Retour",
+        "ERROR": {
+            "Terug": "Retour",
+            "refresh": "Rafraîchir"
+        }
+    },
+    "LIST": {
+        "List": "Liste",
+        "BackBTN": "Retour",
+        "ListBTN": "Liste",
+        "Name": "Nom:  ",
+        "Description": "Description  ",
+        "Location": "Location:  ",
+        "Status": "Status:  ",
+        "Tag": "Tag:  ",
+        "ERROR": {
+            "Terug": "Retour"
+        }
+    },
+    "ADDITEM": {
+        "BackBTN": "Retour",
+        "User": "Utilisateur : ",
+        "locationUpdate": "Autoriser la mise à jour de la localisation",
+        "NavBarTitle": "Nouvel objet",
+        "newProject": "Photo prise",
+        "existingProject": "Projet existant",
+        "Verzenden": "Éxpédier",
+        "SelectProject": "Projet",
+        "TitlePlaceholder" : "Titre",
+        "DescriptionPlaceholder" : "Description",
+        "selectTag":"Tag",
+        "Tag": "Libellé",
+        "SelectStatus": "Statut",
+        "Terug": "Retour",
+        "selectItem":"Faites votre choix",
+        "LOADING": {
+            "Image": "Images are uploading...",
+            "Document": "Documents are uploading..."
+        },
+        "ERROR": {
+            "BackTitle": "Confirmer",
+            "BackMessage": "Êtes-vous sûr ?",
+            "UpdateMessage": "/",
+            "BacktextNo": "Non",
+            "BackRoleCancel": "Annuler",
+            "BacktextYes": "Oui",
+            "SomethingWntWrong": "Un problème est survenu. Veuillez réessayer plus tard",
+            "LocationPermition": "Pour utiliser cette application, votre géolocalisation doit être activée.",
+            "AddProject": "Ajouter un projet",
+            "EnterProjectName": "Entrer un nom de projet",
+            "SelectTags": "Sélectionnez un libellé",
+            "SelectSubTags": "Sélectionner les sous-étiquettes",
+            "Discription": "Entrez une description",
+            "status": "Sélectionnez un statut",
+            "ImageArrayLength": "Ajouter une image",
+            "ImageArrayLimit": "Vous ne pouvez pas sélectionner plus de 20 images",
+            "ImageSuceess": "Les images ont été téléchargées avec succès",
+            "DocumentArrayLength": "Veuillez ajouter un document",
+            "DocumentArrayLimit": "",
+            "DocumentSuccess": "Le document a été téléchargé avec succès",
+            "SelectTypeTitle": "Sélectionner la source",
+            "SlectTypeCameraText": "Camera",
+            "SlectTypeCameraRole": "/",
+            "SlectTypeGalleryText": "Gallerie",
+            "SelectAnyTag": "Sélectionnez d'abord un tag",
+            "ProjectCreatedSuccessfully": "Projet créé avec succès"
+        }
+    },
+    "login": {
+        "When you use the mobile application you agree with the terms and conditions.\n\nTo use the mobile app, you have to turn on your GPS and turn off the rotation.": "En utilisant l'application mobile, vous acceptez les conditions générales d'utilisation.\n\nSur votre appareil, activez les paramètres de géolocalisation et désactivez la fonction de rotation."
+    }
+}
+

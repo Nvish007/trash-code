@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "461034768661",
+    "project_id": "geomind-96ff4",
+    "storage_bucket": "geomind-96ff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461034768661:android:c3ef5d3ffafd3ca153c11c",
+        "android_client_info": {
+          "package_name": "be.twinsit.geomind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461034768661-cs1r3uuvr0595cpd4iprcv6pv3l0ksk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnWjnArpzzvBOP1Gw9Eg6pUjO9IfPt9FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461034768661-cs1r3uuvr0595cpd4iprcv6pv3l0ksk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "461034768661-c1hukb9fnnpf7pr2dtqtidck25dl39ps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geomind.geomind"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461034768661:android:edc9688dce849fc653c11c",
+        "android_client_info": {
+          "package_name": "com.geomind.geomind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461034768661-cs1r3uuvr0595cpd4iprcv6pv3l0ksk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnWjnArpzzvBOP1Gw9Eg6pUjO9IfPt9FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461034768661-cs1r3uuvr0595cpd4iprcv6pv3l0ksk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "461034768661-c1hukb9fnnpf7pr2dtqtidck25dl39ps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geomind.geomind"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

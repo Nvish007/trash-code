@@ -1,0 +1,150 @@
+{
+    "LOGIN": {
+        "BTN": "LOGIN",
+        "password": "Password",
+        "email": "E-mail",
+        "emailPlaceholder": "Enter email",
+        "passwordPlaceholder": "Enter password",
+        "forgot_password": "Password forgotten?",
+        "continueLogin": "Continue with login?",
+        "submit_btn": "Submit",
+        "alreadyAccount": "Already an account?",
+        "privacy": "Privacy Policy",
+        "connected": "Network Connected",
+        "ERROR": {
+            "networkError": "Network Not Available",
+            "updateBtn": "New version available",
+            "updateMessage": "There is a new version available. Please update your app.",
+            "agreement": "License agreement",
+            "agree": "I Agree",
+            "no": "No",
+            "requried": "License agreement required",
+            "textAgree": "You need to confirm the license agreement before you can use the app.",
+            "EmailEnter": "Please Enter Email",
+            "PasswordEnter": "Please Enter password",
+            "EnterValidEmail": "Please Enter Valid Email",
+            "SomethingWntWrong": "Something went wrong.Please try later",
+            "ERRR": "Another device is already connected with this account.",
+            "ER6": "Please enter email to send reset password link !",
+            "ER7": "If email exist then reset password link has been sent to the email."
+        }
+    },
+    "HOME": {
+        "BTN": "NEEM EEN FOTO",
+        "Welcome": "Welcome",
+        "searchProject": "Search project",
+        "ERROR": {
+            "location": "Gelieve uw locatie in te schakelen",
+            "MenuTitle": "Select media type",
+            "CameraText": "Open Camera",
+            "GalleryText": "Open Gallery",
+            "Cancel": "Cancel",
+            "ImageArrayLength": "Please add any image",
+            "LogoutTitle": "Logout",
+            "LogoutMessage": "Are you sure you want to log out?",
+            "LogoutYes": "Yes",
+            "LogoutNo": "No",
+            "takePictureRole": "destructive",
+            "LocationPermition": "Location permission required for this app.",
+            "locationTitle": "Location",
+            "locationMessage": "Location permission required for this app.",
+            "locationYes": "Turn on",
+            "locationNo": "No",
+            "SomethingWntWrong": "Something went wrong.Please try later",
+            "cameraDenied": "Please allow camera access.",
+            "confirmation": "Confirmation",
+            "syncmsg": "Entire sync can take time ?"
+        }
+    },
+    "OPHALINGEDETAILS": {
+        "BackBTN": "Back",
+        "navBarTitle": "Werf 1",
+        "updateBTN": "Update",
+        "type": "Type",
+        "door": "Door",
+        "statusName": "Status",
+        "tagName": "Tag",
+        "Beschrijving": "Description",
+        "fileDownloadSuccess": "File downloaded successfully!",
+        "ERROR": {
+            "LoaderContent": "Loading data...",
+            "actionSheetTitle": "Select Datetime",
+            "actionSheetCssClass": "custom_action_sheet",
+            "Terug": "Terug"
+        }
+    },
+    "OPHALINGE": {
+        "Ophalinge": "Ophalinge",
+        "ListBTN": "List",
+        "BackBTN": "Back",
+        "ERROR": {
+            "Terug": "Terug",
+            "refresh": "Refresh"
+        }
+    },
+    "LIST": {
+        "List": "List",
+        "BackBTN": "Back",
+        "ListBTN": "List",
+        "Name": "Name:  ",
+        "Description": "Description:  ",
+        "Location": "Location Name:  ",
+        "Status": "Status Name:  ",
+        "Tag": "Tag Name:  ",
+        "ERROR": {
+            "Terug": "Terug"
+        }
+    },
+    "ADDITEM": {
+        "BackBTN": "Back",
+        "User": "User : ",
+        "locationUpdate": "Allow location update",
+        "NavBarTitle": "New item",
+        "newProject": "Photo taken",
+        "existingProject": "Existing project",
+        "Verzenden": "Verzenden",
+        "SelectProject": "Select Project",
+        "TitlePlaceholder": "Titel",
+        "DescriptionPlaceholder": "Beschrijving",
+        "Tag": "Tag",
+        "selectTag": "Select sub tag",
+        "SelectStatus": "Select Status",
+        "Terug": "Terug",
+        "selectItem":"Make your choice",
+        "LOADING": {
+            "Image": "Images are uploading...",
+            "Document": "Documents are uploading..."
+        },
+        "ERROR": {
+            "BackTitle": "Confirmation",
+            "BackMessage": "Are you sure ?",
+            "UpdateMessage": "Is this item collected ?",
+            "BacktextNo": "No",
+            "BackRoleCancel": "cancel",
+            "BacktextYes": "Yes",
+            "SomethingWntWrong": "Something went wrong.Please try later",
+            "LocationPermition": "Location permission required for this app.",
+            "AddProject": "please select project",
+            "EnterProjectName": "Please enter project name",
+            "SelectTags": "Select tags",
+            "SelectSubTags": "Select sub tags",
+            "Discription": "Enter enter description",
+            "status": "Select status",
+            "ImageArrayLength": "Please add any image",
+            "ImageArrayLimit": "You can not select more than 20 images",
+            "ImageSuceess": "Images are uploaded successfully",
+            "DocumentArrayLength": "Please add any document",
+            "DocumentArrayLimit": "",
+            "DocumentSuccess": "Document is uploaded successfully",
+            "SelectTypeTitle": "Select media type",
+            "SlectTypeCameraText": "Open Camera",
+            "SlectTypeCameraRole": "destructive",
+            "SlectTypeGalleryText": "Open Gallery",
+            "SelectAnyTag": "Select a tag first",
+            "ProjectCreatedSuccessfully": "Project created successfully"
+        }
+    },
+    "login": {
+        "When you use the mobile application you agree with the terms and conditions.\n\nTo use the mobile app, you have to turn on your GPS and turn off the rotation.": "When you use the mobile application you agree with the terms and conditions.\n\nTo use the mobile app, you have to turn on your GPS and turn off the rotation."
+    }
+}

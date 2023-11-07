@@ -1,0 +1,150 @@
+{
+    "LOGIN": {
+        "BTN": "Buton",
+        "password": "Şifre",
+        "email": "E-Posta",
+        "emailPlaceholder": "Mail adresi giriniz",
+        "passwordPlaceholder": "Şifre giriniz",
+        "forgot_password": "Şifremi unuttum",
+        "continueLogin": "Oturum açma işlemine devam edin?",
+        "submit_btn": "Gönder",
+        "alreadyAccount": "Zaten bir hesabınız var mı?",
+        "privacy": "Gizlilik",
+        "connected": "Ağ Bağlantısı",
+        "ERROR": {
+            "networkError": "Ağ Mevcut Değil",
+            "updateBtn": "Güncelle",
+            "updateMessage": "Güncelle",
+            "agreement": "Sözleşme",
+            "agree": "Onayla",
+            "no": "Hayır",
+            "requried": "Zorunlu",
+            "textAgree": "Onayla",
+            "EmailEnter": "E-Posta Girişi",
+            "PasswordEnter": "Şifre Girişi",
+            "EnterValidEmail": "Geçerli e-posta girin",
+            "SomethingWntWrong": "Bir şeyler yanlış gitti",
+            "ERRR": "Hata",
+            "ER6": "Şifre sıfırlama bağlantısını göndermek için lütfen e-posta girin!",
+            "ER7": "E-posta mevcutsa, şifre sıfırlama bağlantısı e-postaya gönderilmiştir."
+        }
+    },
+    "HOME": {
+        "BTN": "Bir fotoğraf çekin",
+        "Welcome": "Hoş Geldiniz",
+        "searchProject": "Proje arama",
+        "ERROR": {
+            "location": "Konum",
+            "MenuTitle": "Menü",
+            "CameraText": "Kamera",
+            "GalleryText": "Galeri",
+            "Cancel": "İptal Et",
+            "ImageArrayLength": "Lütfen herhangi bir resim ekleyin",
+            "LogoutTitle": "Çıkış Yap",
+            "LogoutMessage": "Çıkış Yap",
+            "LogoutYes": "Evet",
+            "LogoutNo": "Hayır",
+            "takePictureRole": "Resim Çek",
+            "LocationPermition": "Konum İzni",
+            "locationTitle": "Konum",
+            "locationMessage": "Konum",
+            "locationYes": "Evet",
+            "locationNo": "Hayır",
+            "SomethingWntWrong": "Bir şeyler yanlış gitti",
+            "cameraDenied": "Kamera Reddedildi",
+            "confirmation": "Onayla",
+            "syncmsg": "Senkronizasyon"
+        }
+    },
+    "OPHALINGEDETAILS": {
+        "BackBTN": "Geri",
+        "navBarTitle": "Navigasyon",
+        "updateBTN": "Güncelle",
+        "type": "Tür",
+        "door": "Kapı",
+        "statusName": "İsim",
+        "tagName": "İsim",
+        "Beschrijving": "Tanım",
+        "fileDownloadSuccess": "Dosya başarıyla indirildi!!",
+        "ERROR": {
+            "LoaderContent": "Yükleyici İçeriği",
+            "actionSheetTitle": "Faaliyet",
+            "actionSheetCssClass": "custom_action_sheet",
+            "Terug": "Geri"
+        }
+    },
+    "OPHALINGE": {
+        "Ophalinge": "/",
+        "ListBTN": "Listele",
+        "BackBTN": "Geri",
+        "ERROR": {
+            "Terug": "Geri",
+            "refresh": "Yenile"
+        }
+    },
+    "LIST": {
+        "List": "Listele",
+        "BackBTN": "Geri",
+        "ListBTN": "Listele",
+        "Name": "Isim:  ",
+        "Description": "Açıklama:  ",
+        "Location": "Konum:  ",
+        "Status": "Durum:  ",
+        "Tag": "Etiket:  ",
+        "ERROR": {
+            "Terug": "Geri"
+        }
+    },
+    "ADDITEM": {
+        "BackBTN": "Geri",
+        "User": "User : ",
+        "locationUpdate": "Konumu Güncelle",
+        "NavBarTitle": "Navigasyon",
+        "newProject": "Fotoğraf çekildi",
+        "existingProject": "Mevcut Proje",
+        "Verzenden": "Gönder",
+        "SelectProject": "Proje Seç",
+        "Tag": "Etiket",
+        "SelectStatus": "Durum Seç",
+        "TitlePlaceholder" : "Başlık",
+        "DescriptionPlaceholder" : "Açıklama",
+        "selectTag":"Etiket",
+        "Terug": "Geri",
+        "selectItem":"Seçiminizi yapın",
+        "LOADING": {
+            "Image": "Images are uploading...",
+            "Document": "Documents are uploading..."
+        },
+        "ERROR": {
+            "BackTitle": "Geri",
+            "BackMessage": "Geri",
+            "UpdateMessage": "Güncelle",
+            "BacktextNo": "Hayır",
+            "BackRoleCancel": "İptal",
+            "BacktextYes": "Evet",
+            "SomethingWntWrong": "Bir şeyler yanlış gitti",
+            "LocationPermition": "Konum İzni",
+            "AddProject": "Proje Ekle",
+            "EnterProjectName": "Proje ismi girin",
+            "SelectTags": "Etiketler",
+            "SelectSubTags": "Alt etiketleri seçin",
+            "Discription": "Açıklama",
+            "status": "Durum",
+            "ImageArrayLength": "Görüntü Dizisi Uzunluğu",
+            "ImageArrayLimit": "20'den fazla resim seçemezsiniz",
+            "ImageSuceess": "Görüntüler başarıyla yüklendi",
+            "DocumentArrayLength": "Lütfen herhangi bir belge ekleyin",
+            "DocumentArrayLimit": "",
+            "DocumentSuccess": "Belge başarıyla yüklendi",
+            "SelectTypeTitle": "Tür",
+            "SlectTypeCameraText": "Kamera",
+            "SlectTypeCameraRole": "Kamera",
+            "SlectTypeGalleryText": "Galeri",
+            "SelectAnyTag": "Önce bir etiket seçin",
+            "ProjectCreatedSuccessfully": "Proje Başarıyla Oluşturuldu"
+        }
+    },
+    "login": {
+        "When you use the mobile application you agree with the terms and conditions.\n\nTo use the mobile app, you have to turn on your GPS and turn off the rotation.": "Mobil uygulamayı kullandığınızda şartları ve koşulları kabul etmiş sayılırsınız.\n\nMobil uygulamayı kullanmak için GPS'inizi açmanız ve rotasyonu kapatmanız gerekmektedir."
+    }
+}

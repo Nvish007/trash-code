@@ -1,0 +1,150 @@
+{
+    "LOGIN": {
+        "BTN": "Anmelden",
+        "password": "Passwort",
+        "email": "E-Mail-Adresse",
+        "emailPlaceholder": "Geben Sie eine gültige E-Mail-Adresse an ",
+        "passwordPlaceholder": "Geben Sie ein Passwort ein ",
+        "forgot_password": "Haben Sie Ihr Passwort vergessen? ",
+        "continueLogin": "Weiter mit Anmeldung?",
+        "submit_btn": "Einreichen",
+        "alreadyAccount": "Sie schon habe ein Konto",
+        "privacy": "Privatsphäre",
+        "connected": "Netzwerk Verbunden",
+        "ERROR": {
+            "networkError": "Netzwerk nicht verfügbar",
+            "updateBtn": "Update",
+            "updateMessage": "Update Nachricht",
+            "agreement": "Vereinbarung",
+            "agree": "Zustimmen",
+            "no": "Nein",
+            "requried": "Benötigt",
+            "textAgree": "Zustimmen",
+            "EmailEnter": "E-Mail-Adresse",
+            "PasswordEnter": "Passwort",
+            "EnterValidEmail": "Geben Sie eine gültige E-Mail-Adresse an",
+            "SomethingWntWrong": "Etwas ist schief gelaufen",
+            "ERRR": "ERROR",
+            "ER6": "Bitte geben Sie Ihre E-Mail-Adresse ein, um den Link zum Zurücksetzen des Passworts zu senden!",
+            "ER7": "Wenn eine E-Mail vorhanden ist, wurde der Link zum Zurücksetzen des Passworts an diese E-Mail gesendet."
+        }
+    },
+    "HOME": {
+        "BTN": "Ein Foto machen",
+        "Welcome": "Willkommen",
+        "searchProject": "Projekt-Suche",
+        "ERROR": {
+            "location": "Standort",
+            "MenuTitle": "Menü",
+            "CameraText": "Kamera",
+            "GalleryText": "Galerie",
+            "Cancel": "Abbrechen",
+            "ImageArrayLength": "Bitte fügen Sie ein beliebiges Bild hinzu",
+            "LogoutTitle": "Abmelden",
+            "LogoutMessage": "Wollen Sie sich trotzdem abmelden?",
+            "LogoutYes": "Ja",
+            "LogoutNo": "Nein",
+            "takePictureRole": "Mach ein Foto",
+            "LocationPermition": "Standort Erlaubnis",
+            "locationTitle": "Standort",
+            "locationMessage": " Wollen Sie ihre Standort deaktivieren?",
+            "locationYes": "Ja",
+            "locationNo": "Nein",
+            "SomethingWntWrong": "Etwas ist schief gelaufen",
+            "cameraDenied": "Kamera Verweigert",
+            "confirmation": "Bestätigung",
+            "syncmsg": "Synchronisation"
+        }
+    },
+    "OPHALINGEDETAILS": {
+        "BackBTN": "Back",
+        "navBarTitle": "Zurück",
+        "updateBTN": "Aktualisieren",
+        "type": "Typ",
+        "door": "Tür",
+        "statusName": "Name",
+        "tagName": "Name",
+        "Beschrijving": "Beschreibung",
+        "fileDownloadSuccess": "Datei erfolgreich heruntergeladen!",
+        "ERROR": {
+            "LoaderContent": "Loader-Inhalt",
+            "actionSheetTitle": "Aktion",
+            "actionSheetCssClass": "custom_action_sheet",
+            "Terug": "Zurück"
+        }
+    },
+    "OPHALINGE": {
+        "Ophalinge": "Sammlung",
+        "ListBTN": "Liste",
+        "BackBTN": "Back",
+        "ERROR": {
+            "Terug": "Zurück",
+            "refresh": "Aktualisierung"
+        }
+    },
+    "LIST": {
+        "List": "Liste",
+        "BackBTN": "Back",
+        "ListBTN": "Liste",
+        "Name": "Name:  ",
+        "Description": "Beschreibung:  ",
+        "Location": "Standort:  ",
+        "Status": "Status:  ",
+        "Tag": "Tag:  ",
+        "ERROR": {
+            "Terug": "Zurück"
+        }
+    },
+    "ADDITEM": {
+        "BackBTN": "Back",
+        "User": "Benutzer : ",
+        "locationUpdate": "Standortaktualisierung",
+        "NavBarTitle": "Navigation",
+        "newProject": "Foto aufgenommen",
+        "existingProject": "Bestehendes Projekt",
+        "Verzenden": "Schicken",
+        "SelectProject": "Projekt Auswählen",
+        "Tag": "Tag",
+        "TitlePlaceholder" : "Titel",
+        "DescriptionPlaceholder" : "Beschribung",
+        "selectTag":"Tag",
+        "SelectStatus": "Status Auswählen",
+        "Terug": "Zurück",
+        "selectItem":"Treffen Sie Ihre Wahl",
+        "LOADING": {
+            "Image": "Images are uploading...",
+            "Document": "Documents are uploading..."
+        },
+        "ERROR": {
+            "BackTitle": "Zurück",
+            "BackMessage": "Zurück",
+            "UpdateMessage": "Aktualisieren",
+            "BacktextNo": "Nein",
+            "BackRoleCancel": "Stornieren",
+            "BacktextYes": "Ja",
+            "SomethingWntWrong": "Etwas ist schief gelaufen",
+            "LocationPermition": "Standortgenehmigung",
+            "AddProject": "Projekt Hinzufügen",
+            "EnterProjectName": "Geben Sie den Projektnamen ein",
+            "SelectTags": "Stichworte",
+            "SelectSubTags": "Sub-Tags auswählen",
+            "Discription": "Beschreibung",
+            "status": "Status",
+            "ImageArrayLength": "Länge des Bildarrays",
+            "ImageArrayLimit": "Sie können nicht mehr als 20 Bilder auswählen",
+            "ImageSuceess": "Bilder wurden erfolgreich hochgeladen",
+            "DocumentArrayLength": "Bitte fügen Sie ein beliebiges Dokument hinzu",
+            "DocumentArrayLimit": "",
+            "DocumentSuccess": "Dokument wurde erfolgreich hochgeladen",
+            "SelectTypeTitle": "Typ",
+            "SlectTypeCameraText": "Kamera",
+            "SlectTypeCameraRole": "Kamera",
+            "SlectTypeGalleryText": "Galerie",
+            "SelectAnyTag": "Wählen Sie zuerst einen Tag aus",
+            "ProjectCreatedSuccessfully": "Projekt erfolgreich erstellt"
+        }
+    },
+    "login": {
+        "When you use the mobile application you agree with the terms and conditions.\n\nTo use the mobile app, you have to turn on your GPS and turn off the rotation.": "Wenn Sie die mobile Anwendung nutzen, stimmen Sie den Allgemeinen Geschäftsbedingungen zu.\n\nUm die mobile App nutzen zu können, müssen Sie Ihr GPS einschalten und die Rotation ausschalten."
+    }
+}
